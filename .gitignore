@@ -1,5 +1,6 @@
 .md
 README.md
-.txt
+./.txt
+../.txt
 ./remote-key
 ./remote.pub
